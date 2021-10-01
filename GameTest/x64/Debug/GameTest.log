@@ -1,0 +1,19 @@
+﻿  DisplayManager.cpp
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\Enemy.h(72,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(131,17): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(131,17): message : consider using '%zd' in the format string
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(136,16): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(136,16): message : consider using '%zd' in the format string
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(141,16): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(141,16): message : consider using '%zd' in the format string
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(163,20): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(163,20): message : consider using '%zd' in the format string
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(163,20): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\DisplayManager.cpp(163,20): message : consider using '%zd' in the format string
+  Enemy.cpp
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\Enemy.h(72,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\GameTest\Enemy.cpp(21,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  GameTest.vcxproj -> C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\x64\Debug\GameTest.exe
+  C:\Users\leonl\source\repos\NEXT_API2021\WDAU_API2020\\GameTest\glut\bin\x64\freeglut.dll
+  复制了 1 个文件
